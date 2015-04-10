@@ -1,0 +1,2 @@
+# GuessBid_824298
+GuessBid is a project exam for the course of Software Engineering 2 of Politecnico of Milan. It is an application implementing an inverse auction system. An inverse auction works like a regular auction. The difference is that in an inverse auction a user has to propose the lowest unique bid to win the auction. More details about its features will be described in each document loaded in this github repository.
